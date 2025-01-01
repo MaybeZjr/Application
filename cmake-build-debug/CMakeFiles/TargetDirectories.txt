@@ -1,0 +1,3 @@
+/Users/zhangjiarun/CLionProjects/CropPictureIntoPieces/cmake-build-debug/CMakeFiles/CropPictureIntoPieces.dir
+/Users/zhangjiarun/CLionProjects/CropPictureIntoPieces/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zhangjiarun/CLionProjects/CropPictureIntoPieces/cmake-build-debug/CMakeFiles/rebuild_cache.dir
